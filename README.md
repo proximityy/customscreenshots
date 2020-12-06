@@ -16,5 +16,5 @@ Allows you to customize the interval and repetitions of automated screenshots, a
 5. Quit program by clicking 'No'
 6. Launch Custom Screenshots, accept the warnings. Navigate through the program as though you were using it normally. When prompted, **be sure** to click OK to:
 ![Help Image](https://raw.githubusercontent.com/proximityy/customscreenshots/main/assets/graphic1.png).
-7. When you see this prompt: ![Help Image](https://raw.githubusercontent.com/proximityy/customscreenshots/main/assets/graphic2.png), be sure to click OK. Check the checkbox next to Custom Screenshots, and quit Custom Screenshots when prompted.
+7. When you see this prompt, be sure to click OK. Check the checkbox next to Custom Screenshots, and quit Custom Screenshots when prompted. ![Help Image](https://raw.githubusercontent.com/proximityy/customscreenshots/main/assets/graphic2.png)
 8. Custom Screenshots will now run normally when opened.
