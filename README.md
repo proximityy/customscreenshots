@@ -8,7 +8,7 @@ Allows you to customize the interval and repetitions of automated screenshots, a
 # System requirements:
 1. MacOS Catalina 10.10 or later
 2. User admin access
-# Setup instructions *important*
+# Setup instructions *(important)*
 1. Open the program; the program will be blocked immediately
 2. Open System Preferences -> Security & Privacy -> Open Anyway
 3. Launch Custom Screenshots, accept the warnings. Navigate through the program as though you were using it normally. 
